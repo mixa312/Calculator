@@ -1,0 +1,3 @@
+/Users/misamandra/Desktop/Calculator/tmp/CMakeFiles/main.dir
+/Users/misamandra/Desktop/Calculator/tmp/CMakeFiles/edit_cache.dir
+/Users/misamandra/Desktop/Calculator/tmp/CMakeFiles/rebuild_cache.dir
